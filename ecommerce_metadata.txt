@@ -1,0 +1,22 @@
+Metadata of ecommerce data set:
+
+Data Set Characteristics:
+
+:Number of Instances: 506 
+
+:Number of Attributes: 11 numeric/categorical predictive
+
+:Attribute Information (in order):
+    - Sale     per capita sale 
+    - por_OS   proportion of other type of sellers
+    - por_NON  proportion of non-retail overall
+    - recc     recommended seller 1/0
+    - avg_no_it average number of items
+    - age      proportion of untis sold by seller
+    - dis      weighted distances to five sellers
+    - diff_reg index of accessibility to different regions
+    - TAX      tax per 10,000
+    - B        1000(Bk - 0.63)^2 where Bk is the proportion of retail 
+    - lowstat    % lower status of the small sellers
+    - Median_s     Median value of seller business in $1000's
+Missing Attribute Values: None
